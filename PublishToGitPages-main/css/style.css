@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Tar hela skärmens höjd */
+}
+
+h2 {
+  text-align: center;
+  display: inline;
+}
+
+.centre-me {
+  text-align: center;
+}
